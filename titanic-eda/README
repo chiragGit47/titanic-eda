@@ -1,0 +1,17 @@
+# Titanic EDA — Exploratory Data Analysis
+
+A complete exploratory data analysis of the Titanic passenger dataset
+using Python, Pandas, Matplotlib and Seaborn.
+
+## Key findings
+- Overall survival rate: 38.2%
+- Female survival rate (74%) was 4x higher than male (18.9%)
+- First class passengers had significantly higher survival rates
+- Median age of survivors was 28 years
+
+## Tech stack
+Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter
+
+## Files
+- `titanic_eda.ipynb` — full analysis notebook
+- `Titanic-Dataset.csv` — raw dataset
